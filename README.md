@@ -1,2 +1,4 @@
 # brainscoop-firestore-python
-Brainscoop Firestore Cloud project for python
+Manipulate firestore database to ease development of firebase applications.
+
+    pipenv run python brainscoop/main.py
